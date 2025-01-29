@@ -1,2 +1,5 @@
-for i in range(0..10)
-  print("Hello, World!")
+print("Hello, World!")
+print("Hola, World!")
+print("WTF, World!")
+print("Adios, World!")
+print("Goodbye, World!")
